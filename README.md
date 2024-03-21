@@ -1,12 +1,25 @@
 # eMeritBox
 
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tr>
+<td style="width: 50%;">
+
 > This proj is for a strange course...
-> 
+>
 > And the proj is also abstract...
 >
-> eMeritBox 👇
+> eMeritBox is like... 👉
+>
+> In fact, I just think the Microsystems course project should be done in a fun way to avoid being too boring...
 
-![image](assets/image.png)
+</td>
+<td style="width: 50%;">
+
+<img align='right' src="assets/image.png" alt="image" style="width: 75%;"/>
+
+</td>
+</tr>
+</table>
 
 ## Intro
 
